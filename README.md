@@ -41,17 +41,19 @@ Chatbot: Goodbye!
 ## 🎯 Learning Goals
 
 This project helps beginners practice:
--Python functions
+Python functions
 
--Loops (while)
+Loops (while)
 
--Conditional statements (if, elif)
+Conditional statements (if, elif)
 
--Dictionary usage
+Dictionary usage
 
--Input/output handling
+Input/output handling
 
 ---
 
 👩‍💻 Created By: Saira Abbas
+
+---
 GitHub: https: //github.com/sairaabbas536
