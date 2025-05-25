@@ -42,10 +42,14 @@ Chatbot: Goodbye!
 
 This project helps beginners practice:
 -Python functions
+
 -Loops (while)
+
 -Conditional statements (if, elif)
+
 -Dictionary usage
-Input/output handling
+
+-Input/output handling
 
 ---
 
