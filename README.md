@@ -18,11 +18,17 @@ This is a beginner-friendly chatbot built using Python. It uses a dictionary to 
 ## 🧪 Example Chat
 
 Chatbot: Hello! Type 'bye' to exit.
+
 You: hello
+
 Chatbot: Hi!
+
 You: how are you
+
 Chatbot: I'm fine, thanks!
+
 You: bye
+
 Chatbot: Goodbye!
 
 ---
